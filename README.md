@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 🔭 I’m currently working on PALMs
+
 🌱 I’m currently learning React Js, Iac
+
 👯 I’m looking to collaborate on React Js, IaC
+
 💬 Ask me about Web Api, Open Api Spec, Clean Architecture
+
 📫 How to reach me: Teams or Email
+
 ⚡ Fun fact: Love traveling, hiking, swimming, standup paddling, kayaking, all adventures
 
 
