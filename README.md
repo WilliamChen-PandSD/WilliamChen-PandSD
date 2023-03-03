@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m currently working on PALMs\n
-🌱 I’m currently learning React Js, Iac\n
-👯 I’m looking to collaborate on React Js, IaC\n
-💬 Ask me about Web Api, Open Api Spec, Clean Architecture\n
-📫 How to reach me: Teams or Email\n
-⚡ Fun fact: Love traveling, hiking, swimming, standup paddling, kayaking, all adventures\n
+🔭 I’m currently working on PALMs
+
+🌱 I’m currently learning React Js, Iac
+
+👯 I’m looking to collaborate on React Js, IaC
+
+💬 Ask me about Web Api, Open Api Spec, Clean Architecture
+
+📫 How to reach me: Teams or Email
+
+⚡ Fun fact: Love traveling, hiking, swimming, standup paddling, kayaking, all adventures
 
 <!--
 **WilliamChen-PandSD/WilliamChen-PandSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
